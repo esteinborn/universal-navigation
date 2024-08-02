@@ -4,8 +4,6 @@ The Universal Navigation is part of New York State’s planned progress toward c
 
 ## Implementation Guidelines
 
-- This should be paired with the [NYS Global Navigation](https://github.com/ny/global-navigation)
-- Subscribe to email updates from the Yammer Group (below) to be notified as changes/additions happen to this guidance and to be informed of details of the rollout timeline.
 - [Frequently Asked Questions](notes/faqs.md)
 
 ## Universal Banner (choose 1 option)
@@ -13,33 +11,27 @@ The Universal Navigation is part of New York State’s planned progress toward c
 #### Interactive Banner Option
 
 - [Instructions and embed code] (notes/interactive-option.md)
-- [Demo](http://ny.github.io/universal-navigation/demos/interactive-option-demo.html)
-- [DEV Environment Demo](http://ny.github.io/universal-navigation/demos/interactive-option-demo-DEV.html)
+- [Demo](http://itswebny.github.io/universal-navigation/demos/interactive-option-demo.html)
+- [DEV Environment Demo](http://itswebny.github.io/universal-navigation/demos/interactive-option-demo-DEV.html)
 #### Static Banner Option
 
 - [Instructions and embed code] (notes/static-option.md)
-- [Demo](http://ny.github.io/universal-navigation/demos/static-option-demo.html)
-- [DEV Environment Demo](http://ny.github.io/universal-navigation/demos/static-option-demo-DEV.html)
+- [Demo](http://itswebny.github.io/universal-navigation/demos/static-option-demo.html)
+- [DEV Environment Demo](http://itswebny.github.io/universal-navigation/demos/static-option-demo-DEV.html)
 
 ## Universal Footer (required)
 
 - [Instructions] (notes/footer.md)
 
 ## QA Testing
-- [Instructions] (https://github.com/nys-its/universal-navigation/blob/gh-pages/notes/testing-against-development-staging.md)
+- [Instructions] (https://github.com/itswebny/universal-navigation/blob/gh-pages/notes/testing-against-development-staging.md)
 
-### Yammer Group
-
-- Join the Universal Navigation [Yammer Group](http://goo.gl/RRlnFV) to ask questions, discuss or give feedback.
-- Subscribe to the group by email so that updates are delivered to you automatically.
 
 ## Thank you for participating!
 
-
 <br>
 ### Questions
-- Please post questions to the [Yammer Group](http://goo.gl/RRlnFV) for the mutual benefit of all
 - If necessary, questions can be emailed to innovate@its.ny.gov
 
 ### QA Admin
-- Checklist for each release/update testing cycle is located [here](https://github.com/ny/universal-navigation/blob/gh-pages/notes/QA-Process-Checklist.md#qa-checklist)
+- Checklist for each release/update testing cycle is located [here](https://github.com/itswebny/universal-navigation/blob/gh-pages/notes/QA-Process-Checklist.md#qa-checklist)
